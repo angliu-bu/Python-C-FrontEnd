@@ -1,2 +1,1 @@
-# Python
-Example Python scripts and coding samples 
+Example Python scripts and C++ coding samples 
