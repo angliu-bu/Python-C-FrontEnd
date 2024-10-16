@@ -1,1 +1,1 @@
-Example Python scripts and C++ coding samples 
+Example Python scripts, C++ coding and frontend coding samples 
